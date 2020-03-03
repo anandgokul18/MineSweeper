@@ -1,9 +1,3 @@
-// Name: Anand Gokul Mahalingam
-// USC NetID: 7716613969
-// CS 455 PA3
-// Fall 2019
-
-
 /**
   VisibleField class
   This is the data that's being displayed at any one point in the game (i.e., visible field, because it's what the
