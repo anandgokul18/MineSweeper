@@ -1,8 +1,3 @@
-// Name: Anand Gokul Mahalingam
-// USC NetID: 7716613969
-// CS 455 PA3
-// Fall 2019
-
 import java.util.Random;
 
 /** 
